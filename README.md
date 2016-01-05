@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/malteriesch/test-db-acle.png?branch=master)](https://travis-ci.org/malteriesch/test-db-acle)
-
+一个提供快速创建数据库表，并方便单元测试的工具
 Test-DB-Acle
 ============
 
